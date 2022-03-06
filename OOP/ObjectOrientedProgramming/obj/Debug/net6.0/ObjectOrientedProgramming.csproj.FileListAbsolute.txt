@@ -1,0 +1,15 @@
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.csproj.AssemblyReference.cache
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.AssemblyInfo.cs
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.exe
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.deps.json
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.runtimeconfig.json
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.dll
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\bin\Debug\net6.0\ref\ObjectOrientedProgramming.dll
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.pdb
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.dll
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\obj\Debug\net6.0\ref\ObjectOrientedProgramming.dll
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.pdb
+I:\DotNetLearning\OOP\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+I:\DotNetLearning\CSharpFundamental\Collections\bin\Debug\net6.0\Collections.exe
+I:\DotNetLearning\CSharpFundamental\Collections\bin\Debug\net6.0\Collections.deps.json
+I:\DotNetLearning\CSharpFundamental\Collections\bin\Debug\net6.0\Collections.runtimeconfig.json
+I:\DotNetLearning\CSharpFundamental\Collections\bin\Debug\net6.0\Collections.dll
+I:\DotNetLearning\CSharpFundamental\Collections\bin\Debug\net6.0\ref\Collections.dll
+I:\DotNetLearning\CSharpFundamental\Collections\bin\Debug\net6.0\Collections.pdb
+I:\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collections.csproj.AssemblyReference.cache
+I:\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+I:\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+I:\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+I:\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+I:\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collections.dll
+I:\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\ref\Collections.dll
+I:\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collections.pdb
+I:\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collections.genruntimeconfig.cache

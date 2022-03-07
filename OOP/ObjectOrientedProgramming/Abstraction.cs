@@ -34,6 +34,8 @@ namespace ObjectOrientedProgramming
         {
             SocondClass socondClass = new SocondClass();
             socondClass.Message("Some text...");
+            // Output:
+            // Some text... from base SocondClass
         }
     }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asaei\\Source\\Repos\\DotNetLearning\\CSharpFundamental\\Collections\\Collections.csproj": {}
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpFundamental\\Collections\\Collections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asaei\\Source\\Repos\\DotNetLearning\\CSharpFundamental\\Collections\\Collections.csproj": {
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpFundamental\\Collections\\Collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\DotNetLearning\\CSharpFundamental\\Collections\\Collections.csproj",
+        "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpFundamental\\Collections\\Collections.csproj",
         "projectName": "Collections",
-        "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\DotNetLearning\\CSharpFundamental\\Collections\\Collections.csproj",
+        "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpFundamental\\Collections\\Collections.csproj",
         "packagesPath": "C:\\Users\\Asaei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\DotNetLearning\\CSharpFundamental\\Collections\\obj\\",
+        "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpFundamental\\Collections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

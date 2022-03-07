@@ -19,6 +19,8 @@ namespace Collections
             /// Values can be accessed by passing associated key in the indexer e.g.myDictionary[key]
             /// Elements are stored as KeyValuePair<TKey, TValue> objects.
             /// It always maintain the order of stored values.
+            /// Best for high performance lookups.
+
 
 
             IDictionary<int, string> numberNames = new Dictionary<int, string>();

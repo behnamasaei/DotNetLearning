@@ -1,0 +1,15 @@
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\bin\Debug\net6.0\Regular_expression.exe
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\bin\Debug\net6.0\Regular_expression.deps.json
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\bin\Debug\net6.0\Regular_expression.runtimeconfig.json
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\bin\Debug\net6.0\Regular_expression.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\bin\Debug\net6.0\ref\Regular_expression.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\bin\Debug\net6.0\Regular_expression.pdb
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\obj\Debug\net6.0\Regular_expression.csproj.AssemblyReference.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\obj\Debug\net6.0\Regular_expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\obj\Debug\net6.0\Regular_expression.AssemblyInfoInputs.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\obj\Debug\net6.0\Regular_expression.AssemblyInfo.cs
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\obj\Debug\net6.0\Regular_expression.csproj.CoreCompileInputs.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\obj\Debug\net6.0\Regular_expression.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\obj\Debug\net6.0\ref\Regular_expression.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\obj\Debug\net6.0\Regular_expression.pdb
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Regular_expression\obj\Debug\net6.0\Regular_expression.genruntimeconfig.cache

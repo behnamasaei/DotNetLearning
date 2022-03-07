@@ -12,3 +12,4 @@ C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extent
 C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\ref\Extention_method.dll
 C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\Extention_method.pdb
 C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\Extention_method.genruntimeconfig.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\Extention_method.csproj.AssemblyReference.cache

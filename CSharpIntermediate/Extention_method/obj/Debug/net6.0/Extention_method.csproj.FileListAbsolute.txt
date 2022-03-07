@@ -1,0 +1,14 @@
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\bin\Debug\net6.0\Extention_method.exe
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\bin\Debug\net6.0\Extention_method.deps.json
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\bin\Debug\net6.0\Extention_method.runtimeconfig.json
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\bin\Debug\net6.0\Extention_method.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\bin\Debug\net6.0\ref\Extention_method.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\bin\Debug\net6.0\Extention_method.pdb
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\Extention_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\Extention_method.AssemblyInfoInputs.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\Extention_method.AssemblyInfo.cs
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\Extention_method.csproj.CoreCompileInputs.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\Extention_method.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\ref\Extention_method.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\Extention_method.pdb
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\CSharpIntermediate\Extention_method\obj\Debug\net6.0\Extention_method.genruntimeconfig.cache

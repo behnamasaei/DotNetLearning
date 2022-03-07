@@ -34,3 +34,6 @@ void Message(params string[] texts)
     }
 }
 Message(new string[] { "Hello" , "World!"});
+//output:
+// Hello
+// World!

@@ -3,7 +3,7 @@
 namespace Collections;
 public class Array
 {
-    static void Main()
+    public void Main()
     {
         /// single-dimensional array
         /// 

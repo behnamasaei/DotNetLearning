@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpFundamental\\Collections\\Collections.csproj",
-      "projectName": "Collections",
-      "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpFundamental\\Collections\\Collections.csproj",
+      "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpFundamental\\Collections\\Collection.csproj",
+      "projectName": "Collection",
+      "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpFundamental\\Collections\\Collection.csproj",
       "packagesPath": "C:\\Users\\Asaei\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpFundamental\\Collections\\obj\\",
       "projectStyle": "PackageReference",

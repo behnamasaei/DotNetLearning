@@ -1,0 +1,5 @@
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collection.csproj.AssemblyReference.cache
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpFundamental\Collections\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache

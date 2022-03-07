@@ -8,23 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asaei\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\behna\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asaei\\source\\repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj",
+      "projectUniqueName": "I:\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj",
       "projectName": "Extention_method",
-      "projectPath": "C:\\Users\\Asaei\\source\\repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj",
-      "packagesPath": "C:\\Users\\Asaei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asaei\\source\\repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Extention_method\\obj\\",
+      "projectPath": "I:\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj",
+      "packagesPath": "C:\\Users\\behna\\.nuget\\packages\\",
+      "outputPath": "I:\\DotNetLearning\\CSharpIntermediate\\Extention_method\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Asaei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\behna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

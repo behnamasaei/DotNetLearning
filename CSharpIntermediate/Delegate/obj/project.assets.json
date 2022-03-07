@@ -8,23 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asaei\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\behna\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asaei\\source\\repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Delegate\\Delegate.csproj",
+      "projectUniqueName": "I:\\DotNetLearning\\CSharpIntermediate\\Delegate\\Delegate.csproj",
       "projectName": "Delegate",
-      "projectPath": "C:\\Users\\Asaei\\source\\repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Delegate\\Delegate.csproj",
-      "packagesPath": "C:\\Users\\Asaei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asaei\\source\\repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Delegate\\obj\\",
+      "projectPath": "I:\\DotNetLearning\\CSharpIntermediate\\Delegate\\Delegate.csproj",
+      "packagesPath": "C:\\Users\\behna\\.nuget\\packages\\",
+      "outputPath": "I:\\DotNetLearning\\CSharpIntermediate\\Delegate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Asaei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\behna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

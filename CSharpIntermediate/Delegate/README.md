@@ -1,4 +1,4 @@
-Delegates in C#
+## **Delegates in C#**
 
 A delegate in C# is a reference to the method. A delegate is a reference type variable that holds the reference to a method. The reference can be changed at runtime.
 
@@ -6,16 +6,19 @@ Delegates are especially used for implementing events and the call-back methods.
 
 Let us see how to declare delegates in C#.
 
-delegate \&lt;return type\&gt; \&lt;delegate-name\&gt; \&lt;parameter list\&gt;
+delegate <return type> <delegate-name> <parameter list>
 
-Delegateبه معنای نماینده است
+![](Aspose.Words.4cb45bc4-b979-449a-87d5-de83509899da.001.png)
 
-Delegateها در واقع اشاره‌گری به متد/متدهایی میتواند باشد که شرایط لازم را دارا هستند. (به زبان ساده‌تر میتوان Delegateرا خشابی از متدها فرض نمود.) پس یک Delegateزمانی که شرایط لازم را داراست، میتواند نماینده متد یا متدهایی باشد.
+-----
+به معنای نماینده است Delegate
 
-**مهم‌ترین و بهترین استفاده‌ها از**** Delegate**
+Delegate ها در واقع اشاره‌گری به متد/متدهایی میتواند باشد که شرایط لازم را دارا هستند. (به زبان ساده‌تر میتوان دلیگیت را خشابی از متدها فرض نمود.) پس یک زمانی که شرایط لازم را داراست، میتواند نماینده متد یا متدهایی باشد.
 
-استفاده به عنوان اجراکننده هر متد که امضای آن برابر با خودDelegate باشد.
+Delegate مهم‌ترین و بهترین استفاده‌ها از
 
-استفاده به عنوان یک رویداد در برنامه نویسی(Event CallBack)
+استفاده به عنوان اجراکننده هر متد که امضای آن برابر با خود Delegate باشد.
 
-دو مفهوم در دلیگیت‌ها وجود دارد که دانستن آنها لازم است. مفهموم single cast delegateبه این اشاره می‌کند که هر Delegateمی‌تواند فقط به یک متد اشاره کند اما مفهموم multicast delegateدقیقا با این مفهموم در تضاد است و بیانگر این است که هر delegateمی‌تواند به بیش از یک متد اشاره کند.
+استفاده به عنوان یک رویداد در برنامه نویسی (Event CallBack)
+
+دو مفهوم در دلیگیت‌ها وجود دارد که دانستن آنها لازم است. مفهموم single cast delegateبه این اشاره می‌کند که هر می‌تواند فقط به یک متد اشاره کند اما مفهموم multicast delegateدقیقا با این مفهموم در تضاد است و بیانگر این است که هر delegateمی‌تواند به بیش از یک متد اشاره کند.

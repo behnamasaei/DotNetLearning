@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c4818d0-5e21-43da-833b-50c44cdfe013": {
+      "ProjectGuid": "3c4818d0-5e21-43da-833b-50c44cdfe013",
+      "DisplayName": "Delegate",
+      "ColorIndex": 0
+    },
+    "5cc5d0a5-74e8-4413-aa4f-0f61f92c1a76": {
+      "ProjectGuid": "5cc5d0a5-74e8-4413-aa4f-0f61f92c1a76",
+      "DisplayName": "Events",
+      "ColorIndex": 1
+    },
+    "4b071e4f-1e22-4176-9cfd-0cc5d44bd7bb": {
+      "ProjectGuid": "4b071e4f-1e22-4176-9cfd-0cc5d44bd7bb",
+      "DisplayName": "Lambdas",
+      "ColorIndex": 2
+    },
+    "23847929-a70e-488c-b918-b88df7c510e6": {
+      "ProjectGuid": "23847929-a70e-488c-b918-b88df7c510e6",
+      "DisplayName": "LINQ",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

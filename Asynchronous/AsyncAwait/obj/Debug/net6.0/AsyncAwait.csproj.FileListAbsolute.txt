@@ -1,0 +1,15 @@
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\bin\Debug\net6.0\AsyncAwait.exe
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\bin\Debug\net6.0\AsyncAwait.deps.json
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\bin\Debug\net6.0\AsyncAwait.runtimeconfig.json
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\bin\Debug\net6.0\AsyncAwait.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\bin\Debug\net6.0\ref\AsyncAwait.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\bin\Debug\net6.0\AsyncAwait.pdb
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\obj\Debug\net6.0\AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\obj\Debug\net6.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\obj\Debug\net6.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\obj\Debug\net6.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\obj\Debug\net6.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\obj\Debug\net6.0\AsyncAwait.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\obj\Debug\net6.0\ref\AsyncAwait.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\obj\Debug\net6.0\AsyncAwait.pdb
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\AsyncAwait\obj\Debug\net6.0\AsyncAwait.genruntimeconfig.cache

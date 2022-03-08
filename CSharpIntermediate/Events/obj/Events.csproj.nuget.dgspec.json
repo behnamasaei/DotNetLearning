@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Delegate\\Delegate.csproj": {}
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Events\\Events.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Delegate\\Delegate.csproj": {
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Events\\Events.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Delegate\\Delegate.csproj",
-        "projectName": "Delegate",
-        "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Delegate\\Delegate.csproj",
+        "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Events\\Events.csproj",
+        "projectName": "Events",
+        "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Events\\Events.csproj",
         "packagesPath": "C:\\Users\\Asaei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Delegate\\obj\\",
+        "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Events\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

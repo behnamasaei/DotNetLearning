@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Regular_expression\\Regular_expression.csproj",
-      "projectName": "Regular_expression",
-      "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Regular_expression\\Regular_expression.csproj",
+      "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Events\\Events.csproj",
+      "projectName": "Events",
+      "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Events\\Events.csproj",
       "packagesPath": "C:\\Users\\Asaei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Regular_expression\\obj\\",
+      "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Events\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

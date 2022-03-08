@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "I:\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj": {}
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj": {}
   },
   "projects": {
-    "I:\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj": {
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj",
+        "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj",
         "projectName": "Extention_method",
-        "projectPath": "I:\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj",
-        "packagesPath": "C:\\Users\\behna\\.nuget\\packages\\",
-        "outputPath": "I:\\DotNetLearning\\CSharpIntermediate\\Extention_method\\obj\\",
+        "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Extention_method\\Extention_method.csproj",
+        "packagesPath": "C:\\Users\\Asaei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpIntermediate\\Extention_method\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\behna\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Asaei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

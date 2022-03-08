@@ -1,0 +1,15 @@
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\bin\Debug\net6.0\PLINQ.exe
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\bin\Debug\net6.0\PLINQ.deps.json
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\bin\Debug\net6.0\PLINQ.runtimeconfig.json
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\bin\Debug\net6.0\PLINQ.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\bin\Debug\net6.0\ref\PLINQ.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\bin\Debug\net6.0\PLINQ.pdb
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\obj\Debug\net6.0\PLINQ.csproj.AssemblyReference.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\obj\Debug\net6.0\PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\obj\Debug\net6.0\PLINQ.AssemblyInfoInputs.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\obj\Debug\net6.0\PLINQ.AssemblyInfo.cs
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\obj\Debug\net6.0\PLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\obj\Debug\net6.0\PLINQ.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\obj\Debug\net6.0\ref\PLINQ.dll
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\obj\Debug\net6.0\PLINQ.pdb
+C:\Users\Asaei\source\repos\behnamasaei\DotNetLearning\Asynchronous\PLINQ\obj\Debug\net6.0\PLINQ.genruntimeconfig.cache

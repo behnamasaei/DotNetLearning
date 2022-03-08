@@ -1,0 +1,15 @@
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\bin\Debug\net6.0\Lambdas.exe
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\bin\Debug\net6.0\Lambdas.deps.json
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\bin\Debug\net6.0\Lambdas.runtimeconfig.json
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\bin\Debug\net6.0\Lambdas.dll
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\bin\Debug\net6.0\ref\Lambdas.dll
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\bin\Debug\net6.0\Lambdas.pdb
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\obj\Debug\net6.0\Lambdas.csproj.AssemblyReference.cache
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\obj\Debug\net6.0\Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\obj\Debug\net6.0\Lambdas.AssemblyInfoInputs.cache
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\obj\Debug\net6.0\Lambdas.AssemblyInfo.cs
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\obj\Debug\net6.0\Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\obj\Debug\net6.0\Lambdas.dll
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\obj\Debug\net6.0\ref\Lambdas.dll
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\obj\Debug\net6.0\Lambdas.pdb
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpIntermediate\Lambdas\obj\Debug\net6.0\Lambdas.genruntimeconfig.cache

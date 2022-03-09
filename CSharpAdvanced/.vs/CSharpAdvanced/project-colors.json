@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "597e449a-e3cf-49ba-a234-c6181f4c7736": {
+      "ProjectGuid": "597e449a-e3cf-49ba-a234-c6181f4c7736",
+      "DisplayName": "ConcurrentCollection",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

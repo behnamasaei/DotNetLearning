@@ -1,0 +1,15 @@
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\bin\Debug\net6.0\ConcurrentCollection.exe
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\bin\Debug\net6.0\ConcurrentCollection.deps.json
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\bin\Debug\net6.0\ConcurrentCollection.runtimeconfig.json
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\bin\Debug\net6.0\ConcurrentCollection.dll
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\bin\Debug\net6.0\ref\ConcurrentCollection.dll
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\bin\Debug\net6.0\ConcurrentCollection.pdb
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\obj\Debug\net6.0\ConcurrentCollection.csproj.AssemblyReference.cache
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\obj\Debug\net6.0\ConcurrentCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\obj\Debug\net6.0\ConcurrentCollection.AssemblyInfoInputs.cache
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\obj\Debug\net6.0\ConcurrentCollection.AssemblyInfo.cs
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\obj\Debug\net6.0\ConcurrentCollection.csproj.CoreCompileInputs.cache
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\obj\Debug\net6.0\ConcurrentCollection.dll
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\obj\Debug\net6.0\ref\ConcurrentCollection.dll
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\obj\Debug\net6.0\ConcurrentCollection.pdb
+C:\Users\Asaei\Source\Repos\behnamasaei\DotNetLearning\CSharpAdvanced\ConcurrentCollection\obj\Debug\net6.0\ConcurrentCollection.genruntimeconfig.cache

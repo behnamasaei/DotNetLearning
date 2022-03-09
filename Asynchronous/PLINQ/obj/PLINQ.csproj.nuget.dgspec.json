@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asaei\\source\\repos\\behnamasaei\\DotNetLearning\\Asynchronous\\PLINQ\\PLINQ.csproj": {}
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\PLINQ\\PLINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asaei\\source\\repos\\behnamasaei\\DotNetLearning\\Asynchronous\\PLINQ\\PLINQ.csproj": {
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\PLINQ\\PLINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asaei\\source\\repos\\behnamasaei\\DotNetLearning\\Asynchronous\\PLINQ\\PLINQ.csproj",
+        "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\PLINQ\\PLINQ.csproj",
         "projectName": "PLINQ",
-        "projectPath": "C:\\Users\\Asaei\\source\\repos\\behnamasaei\\DotNetLearning\\Asynchronous\\PLINQ\\PLINQ.csproj",
+        "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\PLINQ\\PLINQ.csproj",
         "packagesPath": "C:\\Users\\Asaei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asaei\\source\\repos\\behnamasaei\\DotNetLearning\\Asynchronous\\PLINQ\\obj\\",
+        "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\PLINQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

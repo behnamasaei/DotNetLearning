@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "202129a1-5da3-450e-85ed-fe54be63a352": {
+      "ProjectGuid": "202129a1-5da3-450e-85ed-fe54be63a352",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 0
+    },
+    "6a3a5fea-ff0a-46c9-b15d-ec5793df2554": {
+      "ProjectGuid": "6a3a5fea-ff0a-46c9-b15d-ec5793df2554",
+      "DisplayName": "PLINQ",
+      "ColorIndex": 1
+    },
+    "b965e87f-a592-4954-bae0-5b360b439b8b": {
+      "ProjectGuid": "b965e87f-a592-4954-bae0-5b360b439b8b",
+      "DisplayName": "ParallelPrograming",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\AsyncAwait\\AsyncAwait.csproj": {}
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpAdvanced\\ConcurrentCollection\\ConcurrentCollection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\AsyncAwait\\AsyncAwait.csproj": {
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpAdvanced\\ConcurrentCollection\\ConcurrentCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\AsyncAwait\\AsyncAwait.csproj",
-        "projectName": "AsyncAwait",
-        "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\AsyncAwait\\AsyncAwait.csproj",
+        "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpAdvanced\\ConcurrentCollection\\ConcurrentCollection.csproj",
+        "projectName": "ConcurrentCollection",
+        "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpAdvanced\\ConcurrentCollection\\ConcurrentCollection.csproj",
         "packagesPath": "C:\\Users\\Asaei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\AsyncAwait\\obj\\",
+        "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\CSharpAdvanced\\ConcurrentCollection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

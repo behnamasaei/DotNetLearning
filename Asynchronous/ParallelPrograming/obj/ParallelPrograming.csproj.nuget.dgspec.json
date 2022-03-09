@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\AsyncAwait\\AsyncAwait.csproj": {}
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\ParallelPrograming\\ParallelPrograming.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\AsyncAwait\\AsyncAwait.csproj": {
+    "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\ParallelPrograming\\ParallelPrograming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\AsyncAwait\\AsyncAwait.csproj",
-        "projectName": "AsyncAwait",
-        "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\AsyncAwait\\AsyncAwait.csproj",
+        "projectUniqueName": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\ParallelPrograming\\ParallelPrograming.csproj",
+        "projectName": "ParallelPrograming",
+        "projectPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\ParallelPrograming\\ParallelPrograming.csproj",
         "packagesPath": "C:\\Users\\Asaei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\AsyncAwait\\obj\\",
+        "outputPath": "C:\\Users\\Asaei\\Source\\Repos\\behnamasaei\\DotNetLearning\\Asynchronous\\ParallelPrograming\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
